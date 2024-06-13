@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Form</title>
+</head>
+<style>
+    body, html {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .centered-div {
+        text-align: center;
+        border: 1px solid black;
+        padding: 20px;
+    }
+</style>
+<body>
+    <form id="checkoutForm" class="centered-div" method="POST" action="http://192.168.1.54:6001/api/payments/charge">
+        <div>Coke    1 กระป๋อง     500 บาท</div>
+        <div>สีคราม     1 คน    1,000 บาท</div>
+        <br/>
+        <h2>รวม 41.00 usd($)</h2>
+        <br/>
+        <input type="hidden" name="card" value="">
+        <input type="hidden" name="amount" value=12345>
+        <input type="hidden" name="currency" value="THB">
+        <button type="button" id="rabbitLinePayButton">Rabbit LINE Pay</button>
+        <button type="button" id="alipayButton">Alipay</button>
+        <button type="button" id="creditCardButton">Credit Card</button>
+        <button type="button" id="promptPayButton">PromptPay</button>
+    </form>
+
+    <script type="text/javascript" src="https://cdn.omise.co/omise.js"></script>
+
+    <script>
+        OmiseCard.configure({
+            publicKey: "pkey_test_5zvya2k27t5ywo3on72"
+        });
+
+        let form = document.querySelector("#checkoutForm");
+
+        function openOmiseCard(paymentMethod) {
+            OmiseCard.open({
+                amount: 12345,
+                currency: "THB",
+                defaultPaymentMethod: paymentMethod,
+                frameLabel:'Tour Master',
+                image:'https://dev-tourmaster-bucket.s3.ap-southeast-1.amazonaws.com/img_file/Screenshot+2567-06-12+at+10.35.04.png',
+                onCreateTokenSuccess: (nonce) => {
+                    if (nonce.startsWith("tokn_")) {
+                        form.card.value = nonce
+                        // form.currency.value = currencyแ
+                        // form.amount.value = amount
+                    } else {
+                        alert(nonce)
+                        form.omiseSource.value = nonce;
+                    }
+                    form.submit();
+                }
+            });
+        }
+
+        document.querySelector("#rabbitLinePayButton").addEventListener("click", (event) => {
+            event.preventDefault();
+            openOmiseCard("rabbit_linepay");
+        });
+
+        document.querySelector("#alipayButton").addEventListener("click", (event) => {
+            event.preventDefault();
+            openOmiseCard("alipay");
+        });
+
+        document.querySelector("#creditCardButton").addEventListener("click", (event) => {
+            event.preventDefault();
+            openOmiseCard("credit_card");
+        });
+
+        document.querySelector("#promptPayButton").addEventListener("click", (event) => {
+            event.preventDefault();
+            openOmiseCard("promptpay");
+        });
+    </script>
+</body>
+</html>
