@@ -1,0 +1,1711 @@
+[
+    {
+        "index": 1,
+        "word": "儀式",
+        "furigana": "ぎしき",
+        "meaning": {
+            "eng": "ceremony, rite, ritual, service",
+            "tha": "พิธี"
+        }
+    },
+    {
+        "index": 2,
+        "word": "職人",
+        "furigana": "しょくにん",
+        "meaning": {
+            "eng": "craftsman, artisan, tradesman, worker, workman",
+            "tha": "ช่างฝีมือ"
+        }
+    },
+    {
+        "index": 3,
+        "word": "南極",
+        "furigana": "なんきょく",
+        "meaning": {
+            "eng": "South Pole",
+            "tha": "ขั้วโลกใต้"
+        }
+    },
+    {
+        "index": 4,
+        "word": "北極",
+        "furigana": "ほっきょく",
+        "meaning": {
+            "eng": "North Pole",
+            "tha": "ขั้วโลกเหนือ (khua lok nuea)"
+        }
+    },
+    {
+        "index": 5,
+        "word": "新幹線",
+        "furigana": "しんかんせん",
+        "meaning": {
+            "eng": "Shinkansen, bullet train",
+            "tha": "รถไฟชินคันเซ็น, รถไฟหัวกระสุน"
+        }
+    },
+    {
+        "index": 6,
+        "word": "昼寝",
+        "furigana": "ひるね",
+        "meaning": {
+            "eng": "(afternoon) nap, sleeping during the day, siesta",
+            "tha": "งีบกลางวัน (ngiip glaang wan)"
+        }
+    },
+    {
+        "index": 7,
+        "word": "大通り",
+        "furigana": "おおどおり",
+        "meaning": {
+            "eng": "main street, avenue, boulevard",
+            "tha": "ถนนสายหลัก, ถนนใหญ่"
+        }
+    },
+    {
+        "index": 8,
+        "word": "木材",
+        "furigana": "もくざい",
+        "meaning": {
+            "eng": "lumber, timber, wood",
+            "tha": "ไม้แปรรูป (mai bprae roop)"
+        }
+    },
+    {
+        "index": 9,
+        "word": "運河",
+        "furigana": "うんが",
+        "meaning": {
+            "eng": "(navigable) canal, waterway",
+            "tha": "คลองเดินเรือ"
+        }
+    },
+    {
+        "index": 20,
+        "word": "望遠鏡",
+        "furigana": "ぼうえんきょう",
+        "meaning": {
+            "eng": "telescope",
+            "tha": "กล้องโทรทรรศน์"
+        }
+    },
+    {
+        "index": 21,
+        "word": "唇",
+        "furigana": "くちびる",
+        "meaning": {
+            "eng": "lip, lips",
+            "tha": "ริมฝีปาก (rim-fee-pak)"
+        }
+    },
+    {
+        "index": 22,
+        "word": "温泉",
+        "furigana": "おんせん",
+        "meaning": {
+            "eng": "hot spring",
+            "tha": "บ่อน้ำร้อน"
+        }
+    },
+    {
+        "index": 23,
+        "word": "書店",
+        "furigana": "しょてん",
+        "meaning": {
+            "eng": "bookshop, bookstore",
+            "tha": "ร้านหนังสือ (ráan nǎng-sǔe)"
+        }
+    },
+    {
+        "index": 24,
+        "word": "液体",
+        "furigana": "えきたい",
+        "meaning": {
+            "eng": "liquid",
+            "tha": "ของเหลว"
+        }
+    },
+    {
+        "index": 25,
+        "word": "通勤",
+        "furigana": "つうきん",
+        "meaning": {
+            "eng": "commuting to work",
+            "tha": "การเดินทางไปทำงาน"
+        }
+    },
+    {
+        "index": 26,
+        "word": "広場",
+        "furigana": "ひろば",
+        "meaning": {
+            "eng": "public square, square, plaza, piazza, forum",
+            "tha": "จัตุรัส"
+        }
+    },
+    {
+        "index": 27,
+        "word": "演劇",
+        "furigana": "えんげき",
+        "meaning": {
+            "eng": "drama, theatre, theater, play",
+            "tha": "การละคร"
+        }
+    },
+    {
+        "index": 28,
+        "word": "井戸",
+        "furigana": "いど",
+        "meaning": {
+            "eng": "water well",
+            "tha": "บ่อน้ำ"
+        }
+    },
+    {
+        "index": 29,
+        "word": "煙突",
+        "furigana": "えんとつ",
+        "meaning": {
+            "eng": "chimney, smokestack, funnel (of a ship), stovepipe",
+            "tha": "ปล่องไฟ"
+        }
+    },
+    {
+        "index": 30,
+        "word": "過失",
+        "furigana": "かしつ",
+        "meaning": {
+            "eng": "accident (caused by negligence), error, blunder",
+            "tha": "ประมาทเลินเล่อ"
+        }
+    },
+    {
+        "index": 31,
+        "word": "垣根",
+        "furigana": "かきね",
+        "meaning": {
+            "eng": "hedge, fence",
+            "tha": "รั้วต้นไม้ (ráo dtôn mái)"
+        }
+    },
+    {
+        "index": 32,
+        "word": "果実",
+        "furigana": "かじつ",
+        "meaning": {
+            "eng": "fruit, nut, berry",
+            "tha": "ผลไม้, ลูกไม้, ผลเบอร์รี"
+        }
+    },
+    {
+        "index": 33,
+        "word": "皮膚",
+        "furigana": "ひふ",
+        "meaning": {
+            "eng": "skin",
+            "tha": "ผิวหนัง"
+        }
+    },
+    {
+        "index": 34,
+        "word": "電池",
+        "furigana": "でんち",
+        "meaning": {
+            "eng": "battery, cell",
+            "tha": "แบตเตอรี่ (baet-dto-ree)\n\nor, more formally:\n\nเซลล์ไฟฟ้า (sell fai-fah)"
+        }
+    },
+    {
+        "index": 35,
+        "word": "矛盾",
+        "furigana": "むじゅん",
+        "meaning": {
+            "eng": "contradiction, inconsistency",
+            "tha": "ความขัดแย้ง"
+        }
+    },
+    {
+        "index": 36,
+        "word": "通訳",
+        "furigana": "つうやく",
+        "meaning": {
+            "eng": "interpretation (i.e. oral translation)",
+            "tha": "ล่าม"
+        }
+    },
+    {
+        "index": 37,
+        "word": "乾杯",
+        "furigana": "かんぱい",
+        "meaning": {
+            "eng": "cheers, bottoms-up, prosit",
+            "tha": "ชนแก้ว"
+        }
+    },
+    {
+        "index": 38,
+        "word": "通貨",
+        "furigana": "つうか",
+        "meaning": {
+            "eng": "currency",
+            "tha": "เงินตรา"
+        }
+    },
+    {
+        "index": 39,
+        "word": "花火",
+        "furigana": "はなび",
+        "meaning": {
+            "eng": "fireworks",
+            "tha": "ดอกไม้ไฟ"
+        }
+    },
+    {
+        "index": 40,
+        "word": "車庫",
+        "furigana": "しゃこ",
+        "meaning": {
+            "eng": "garage, carport, depot (for trains, buses, etc.), carbarn",
+            "tha": "โรงจอดรถ"
+        }
+    },
+    {
+        "index": 41,
+        "word": "中世",
+        "furigana": "ちゅうせい",
+        "meaning": {
+            "eng": "Middle Ages (in Japan esp. the Kamakura and Muromachi periods), medieval times, mediaeval times",
+            "tha": "ยุคกลาง (ญี่ปุ่น: คามาคุระ-มูโรมาจิ)"
+        }
+    },
+    {
+        "index": 42,
+        "word": "火山",
+        "furigana": "かざん",
+        "meaning": {
+            "eng": "volcano",
+            "tha": "ภูเขาไฟ"
+        }
+    },
+    {
+        "index": 43,
+        "word": "虹",
+        "furigana": "にじ",
+        "meaning": {
+            "eng": "rainbow",
+            "tha": "รุ้ง"
+        }
+    },
+    {
+        "index": 44,
+        "word": "相撲",
+        "furigana": "すもう",
+        "meaning": {
+            "eng": "sumo (wrestling)",
+            "tha": "ซูโม่"
+        }
+    },
+    {
+        "index": 45,
+        "word": "観念",
+        "furigana": "かんねん",
+        "meaning": {
+            "eng": "idea, notion, concept, conception",
+            "tha": "มโนทัศน์"
+        }
+    },
+    {
+        "index": 46,
+        "word": "回転",
+        "furigana": "かいてん",
+        "meaning": {
+            "eng": "rotation, revolution, turn, spin",
+            "tha": "การหมุน"
+        }
+    },
+    {
+        "index": 47,
+        "word": "競馬",
+        "furigana": "けいば",
+        "meaning": {
+            "eng": "horse racing",
+            "tha": "แข่งม้า"
+        }
+    },
+    {
+        "index": 48,
+        "word": "枕",
+        "furigana": "まくら",
+        "meaning": {
+            "eng": "pillow, bolster",
+            "tha": "หมอน"
+        }
+    },
+    {
+        "index": 49,
+        "word": "吹雪",
+        "furigana": "ふぶき",
+        "meaning": {
+            "eng": "snow storm, blizzard",
+            "tha": "พายุหิมะ"
+        }
+    },
+    {
+        "index": 50,
+        "word": "水素",
+        "furigana": "すいそ",
+        "meaning": {
+            "eng": "hydrogen (H)",
+            "tha": "ไฮโดรเจน"
+        }
+    },
+    {
+        "index": 51,
+        "word": "基礎",
+        "furigana": "キソ",
+        "meaning": {
+            "eng": "foundation, basis",
+            "tha": "พื้นฐาน"
+        }
+    },
+    {
+        "index": 52,
+        "word": "停電",
+        "furigana": "テイデン",
+        "meaning": {
+            "eng": "power outage, electricity outage, blackout, failure of electricity supply",
+            "tha": "ไฟดับ"
+        }
+    },
+    {
+        "index": 53,
+        "word": "毛皮",
+        "furigana": "ケガワ",
+        "meaning": {
+            "eng": "fur, skin, pelt",
+            "tha": "ขนสัตว์"
+        }
+    },
+    {
+        "index": 54,
+        "word": "鐘",
+        "furigana": "カネ",
+        "meaning": {
+            "eng": "bell (often a large hanging bell), chime",
+            "tha": "ระฆัง"
+        }
+    },
+    {
+        "index": 55,
+        "word": "公害",
+        "furigana": "コウガイ",
+        "meaning": {
+            "eng": "pollution, public nuisance, contamination",
+            "tha": "มลพิษ"
+        }
+    },
+    {
+        "index": 56,
+        "word": "灰色",
+        "furigana": "ハイイロ",
+        "meaning": {
+            "eng": "grey, gray, ashen",
+            "tha": "สีเทา (sii thao)"
+        }
+    },
+    {
+        "index": 57,
+        "word": "政党",
+        "furigana": "セイトウ",
+        "meaning": {
+            "eng": "political party",
+            "tha": "พรรคการเมือง"
+        }
+    },
+    {
+        "index": 58,
+        "word": "足跡",
+        "furigana": "アシアト",
+        "meaning": {
+            "eng": "footprints",
+            "tha": "รอยเท้า"
+        }
+    },
+    {
+        "index": 59,
+        "word": "公共",
+        "furigana": "コウキョウ",
+        "meaning": {
+            "eng": "public (facilities, service, etc.), communal",
+            "tha": "สาธารณะ"
+        }
+    },
+    {
+        "index": 60,
+        "word": "公式",
+        "furigana": "コウシキ",
+        "meaning": {
+            "eng": "official, formal",
+            "tha": "ทางการ"
+        }
+    },
+    {
+        "index": 61,
+        "word": "牧場",
+        "furigana": "ボクジョウ",
+        "meaning": {
+            "eng": "farm (livestock), stock farm, ranch, station",
+            "tha": "ฟาร์มปศุสัตว์"
+        }
+    },
+    {
+        "index": 62,
+        "word": "百科事典",
+        "furigana": "ヒャッカジテン",
+        "meaning": {
+            "eng": "encyclopedia, encyclopaedia",
+            "tha": "สารานุกรม (sǎa-raa-nu-krom)"
+        }
+    },
+    {
+        "index": 63,
+        "word": "名所",
+        "furigana": "メイショ",
+        "meaning": {
+            "eng": "famous place, noted place, place of (scenic or historical) interest, sights (to see)",
+            "tha": "สถานที่สำคัญ"
+        }
+    },
+    {
+        "index": 64,
+        "word": "強化",
+        "furigana": "キョウカ",
+        "meaning": {
+            "eng": "strengthening, intensifying, reinforcement, enhancement, solidification",
+            "tha": "การทำให้แข็งแกร่งขึ้น,การทำให้เข้มแข็งขึ้น,การทำให้เข้มข้นขึ้น,การทำให้รุนแรงขึ้น,การเพิ่มความเข้มงวด"
+        }
+    },
+    {
+        "index": 65,
+        "word": "血液",
+        "furigana": "ケツエキ",
+        "meaning": {
+            "eng": "blood",
+            "tha": "เลือด (lʉ̂at)"
+        }
+    },
+    {
+        "index": 66,
+        "word": "車輪",
+        "furigana": "シャリン",
+        "meaning": {
+            "eng": "(vehicle) wheel",
+            "tha": "ล้อรถ"
+        }
+    },
+    {
+        "index": 67,
+        "word": "死体",
+        "furigana": "シタイ",
+        "meaning": {
+            "eng": "dead body, corpse, cadaver, carcass",
+            "tha": "ศพ"
+        }
+    },
+    {
+        "index": 68,
+        "word": "蒸気",
+        "furigana": "ジョウキ",
+        "meaning": {
+            "eng": "steam, vapour, vapor",
+            "tha": "ไอน้ำ"
+        }
+    },
+    {
+        "index": 69,
+        "word": "姿勢",
+        "furigana": "シセイ",
+        "meaning": {
+            "eng": "posture, pose, position, stance, carriage (of the body)",
+            "tha": "ท่าทาง"
+        }
+    },
+    {
+        "index": 70,
+        "word": "文体",
+        "furigana": "ブンタイ",
+        "meaning": {
+            "eng": "literary style",
+            "tha": "ลักษณะสำนวนโวหาร,ลักษณะการเขียนโดยเฉพาะของผู้เขียน"
+        }
+    },
+    {
+        "index": 71,
+        "word": "薬局",
+        "furigana": "ヤッキョク",
+        "meaning": {
+            "eng": "\"pharmacy, drugstore, chemist's (shop)\"",
+            "tha": "ร้านขายยา"
+        }
+    },
+    {
+        "index": 72,
+        "word": "消化",
+        "furigana": "ショウカ",
+        "meaning": {
+            "eng": "digestion (of food)",
+            "tha": "การย่อยอาหาร, เผาผลาญ"
+        }
+    },
+    {
+        "index": 73,
+        "word": "磁石",
+        "furigana": "ジシャク",
+        "meaning": {
+            "eng": "magnet",
+            "tha": "แม่เหล็ก"
+        }
+    },
+    {
+        "index": 74,
+        "word": "神話",
+        "furigana": "シンワ",
+        "meaning": {
+            "eng": "myth, legend",
+            "tha": "เทพปกรณัม"
+        }
+    },
+    {
+        "index": 75,
+        "word": "看板",
+        "furigana": "カンバン",
+        "meaning": {
+            "eng": "signboard, sign, billboard, hoarding, doorplate",
+            "tha": "ป้าย"
+        }
+    },
+    {
+        "index": 76,
+        "word": "大工",
+        "furigana": "ダイク",
+        "meaning": {
+            "eng": "carpenter",
+            "tha": "ช่างไม้"
+        }
+    },
+    {
+        "index": 77,
+        "word": "森林",
+        "furigana": "シンリン",
+        "meaning": {
+            "eng": "forest, woods",
+            "tha": "ป่า"
+        }
+    },
+    {
+        "index": 78,
+        "word": "乗り換え",
+        "furigana": "ノリカエ",
+        "meaning": {
+            "eng": "transfer (trains, buses, etc.), change, connection",
+            "tha": "เปลี่ยนรถ"
+        }
+    },
+    {
+        "index": 79,
+        "word": "電力",
+        "furigana": "デンリョク",
+        "meaning": {
+            "eng": "electric power",
+            "tha": "ไฟฟ้า"
+        }
+    },
+    {
+        "index": 80,
+        "word": "家屋",
+        "furigana": "カオク",
+        "meaning": {
+            "eng": "house, building",
+            "tha": "บ้านเรือน"
+        }
+    },
+    {
+        "index": 81,
+        "word": "東洋",
+        "furigana": "トウヨウ",
+        "meaning": {
+            "eng": "the East, the Orient, (East) Asia",
+            "tha": "ตะวันออก"
+        }
+    },
+    {
+        "index": 82,
+        "word": "顕微鏡",
+        "furigana": "ケンビキョウ",
+        "meaning": {
+            "eng": "microscope",
+            "tha": "กล้องจุลทรรศน์"
+        }
+    },
+    {
+        "index": 83,
+        "word": "方言",
+        "furigana": "ホウゲン",
+        "meaning": {
+            "eng": "dialect, provincialism",
+            "tha": "ภาษาถิ่น"
+        }
+    },
+    {
+        "index": 84,
+        "word": "酢",
+        "furigana": "ス",
+        "meaning": {
+            "eng": "vinegar",
+            "tha": "น้ำส้มสายชู"
+        }
+    },
+    {
+        "index": 85,
+        "word": "滝",
+        "furigana": "タキ",
+        "meaning": {
+            "eng": "waterfall",
+            "tha": "น้ำตก"
+        }
+    },
+    {
+        "index": 86,
+        "word": "面積",
+        "furigana": "メンセキ",
+        "meaning": {
+            "eng": "area (measurement), square measure, size (of land), floor space",
+            "tha": "พื้นที่"
+        }
+    },
+    {
+        "index": 87,
+        "word": "寮",
+        "furigana": "リョウ",
+        "meaning": {
+            "eng": "hostel, dormitory",
+            "tha": "หอพัก"
+        }
+    },
+    {
+        "index": 88,
+        "word": "撮影",
+        "furigana": "サツエイ",
+        "meaning": {
+            "eng": "photography (still or motion), photographing, filming, shooting, (video) recording",
+            "tha": "การถ่ายภาพ"
+        }
+    },
+    {
+        "index": 89,
+        "word": "給与",
+        "furigana": "キュウヨ",
+        "meaning": {
+            "eng": "pay, salary, wages",
+            "tha": "เงินเดือน (ngern duean)"
+        }
+    },
+    {
+        "index": 90,
+        "word": "血圧",
+        "furigana": "ケツアツ",
+        "meaning": {
+            "eng": "blood pressure",
+            "tha": "ความดันโลหิต (khwam dan lohit)"
+        }
+    },
+    {
+        "index": 91,
+        "word": "将棋",
+        "furigana": "ショウギ",
+        "meaning": {
+            "eng": "shogi, Japanese chess",
+            "tha": "โชงิ (หมากรุกญี่ปุ่น)"
+        }
+    },
+    {
+        "index": 92,
+        "word": "継続",
+        "furigana": "ケイゾク",
+        "meaning": {
+            "eng": "continuation, continuance, going on",
+            "tha": "การต่อเนื่อง"
+        }
+    },
+    {
+        "index": 93,
+        "word": "直線",
+        "furigana": "チョクセン",
+        "meaning": {
+            "eng": "straight line",
+            "tha": "เส้นตรง"
+        }
+    },
+    {
+        "index": 94,
+        "word": "伝記",
+        "furigana": "デンキ",
+        "meaning": {
+            "eng": "biography, life story",
+            "tha": "ชีวประวัติ"
+        }
+    },
+    {
+        "index": 95,
+        "word": "刺身",
+        "furigana": "サシミ",
+        "meaning": {
+            "eng": "sashimi (raw sliced fish, shellfish or crustaceans)",
+            "tha": "ปลาดิบแล่"
+        }
+    },
+    {
+        "index": 96,
+        "word": "国籍",
+        "furigana": "コクセキ",
+        "meaning": {
+            "eng": "nationality, citizenship",
+            "tha": "สัญชาติ"
+        }
+    },
+    {
+        "index": 97,
+        "word": "無限",
+        "furigana": "ムゲン",
+        "meaning": {
+            "eng": "infinity, infinitude, eternity",
+            "tha": "อนันต์"
+        }
+    },
+    {
+        "index": 98,
+        "word": "反省",
+        "furigana": "ハンセイ",
+        "meaning": {
+            "eng": "reflection, reconsideration, introspection, meditation, contemplation",
+            "tha": "การใคร่ครวญ"
+        }
+    },
+    {
+        "index": 99,
+        "word": "診断",
+        "furigana": "シンダン",
+        "meaning": {
+            "eng": "diagnosis, medical examination",
+            "tha": "การวินิจฉัย"
+        }
+    },
+    {
+        "index": 100,
+        "word": "明け方",
+        "furigana": "アケガタ",
+        "meaning": {
+            "eng": "dawn, daybreak",
+            "tha": "รุ่งสาง"
+        }
+    },
+    {
+        "index": 101,
+        "word": "銅",
+        "furigana": "ドウ",
+        "meaning": {
+            "eng": "copper (Cu)",
+            "tha": "ทองแดง (thong daeng)"
+        }
+    },
+    {
+        "index": 102,
+        "word": "包装",
+        "furigana": "ホウソウ",
+        "meaning": {
+            "eng": "packing, wrapping",
+            "tha": "การบรรจุ"
+        }
+    },
+    {
+        "index": 103,
+        "word": "手首",
+        "furigana": "テクビ",
+        "meaning": {
+            "eng": "wrist",
+            "tha": "ข้อมือ"
+        }
+    },
+    {
+        "index": 104,
+        "word": "彫刻",
+        "furigana": "チョウコク",
+        "meaning": {
+            "eng": "carving, engraving, sculpture",
+            "tha": "แกะสลัก"
+        }
+    },
+    {
+        "index": 105,
+        "word": "倉庫",
+        "furigana": "ソウコ",
+        "meaning": {
+            "eng": "storehouse, warehouse, godown",
+            "tha": "คลังสินค้า"
+        }
+    },
+    {
+        "index": 106,
+        "word": "香水",
+        "furigana": "コウスイ",
+        "meaning": {
+            "eng": "perfume, scent",
+            "tha": "น้ำหอม"
+        }
+    },
+    {
+        "index": 107,
+        "word": "姓",
+        "furigana": "セイ",
+        "meaning": {
+            "eng": "surname, family name",
+            "tha": "นามสกุล"
+        }
+    },
+    {
+        "index": 108,
+        "word": "噴火",
+        "furigana": "フンカ",
+        "meaning": {
+            "eng": "eruption, volcanic eruption",
+            "tha": "การที่ภูเขาไฟระเบิดและพ่นลาวาออกมา"
+        }	
+    },
+    {
+        "index": 109,
+        "word": "統一",
+        "furigana": "トウイツ",
+        "meaning": {
+            "eng": "unity, consolidation, uniformity, unification, compatible",
+            "tha": "การรวมให้เป็นหนึ่งเดียว,เอกภาพ,การทำให้เหมือนกันหมด"
+        }
+    },
+    {
+        "index": 110,
+        "word": "商社",
+        "furigana": "ショウシャ",
+        "meaning": {
+            "eng": "trading company",
+            "tha": "บริษัทการค้า"
+        }
+    },
+    {
+        "index": 111,
+        "word": "先祖",
+        "furigana": "センゾ",
+        "meaning": {
+            "eng": "ancestor, forefather, foremother",
+            "tha": "บรรพบุรุษ"
+        }
+    },
+    {
+        "index": 112,
+        "word": "手前",
+        "furigana": "テマエ",
+        "meaning": {
+            "eng": "before oneself, in front of one, nearby",
+            "tha": "ใกล้ตัว"
+        }
+    },
+    {
+        "index": 113,
+        "word": "記号",
+        "furigana": "キゴウ",
+        "meaning": {
+            "eng": "symbol, code, sign, notation",
+            "tha": "สัญลักษณ์"
+        }
+    },
+    {
+        "index": 114,
+        "word": "分布",
+        "furigana": "ブンプ",
+        "meaning": {
+            "eng": "distribution",
+            "tha": "การกระจาย"
+        }
+    },
+    {
+        "index": 115,
+        "word": "行列",
+        "furigana": "ギョウレツ",
+        "meaning": {
+            "eng": "line, queue, procession, parade",
+            "tha": "แถว"
+        }
+    },
+    {
+        "index": 116,
+        "word": "深夜",
+        "furigana": "シンヤ",
+        "meaning": {
+            "eng": "late at night",
+            "tha": "ดึกดื่น"
+        }
+    },
+    {
+        "index": 117,
+        "word": "太鼓",
+        "furigana": "タイコ",
+        "meaning": {
+            "eng": "drum",
+            "tha": "กลอง"
+        }
+    },
+    {
+        "index": 118,
+        "word": "煮る",
+        "furigana": "ニル",
+        "meaning": {
+            "eng": "to boil, to simmer, to stew, to seethe",
+            "tha": "ต้ม"
+        }
+    },
+    {
+        "index": 119,
+        "word": "和服",
+        "furigana": "ワフク",
+        "meaning": {
+            "eng": "Japanese clothes",
+            "tha": "ชุดญี่ปุ่น"
+        }
+    },
+    {
+        "index": 120,
+        "word": "引き分け",
+        "furigana": "ヒキワケ",
+        "meaning": {
+            "eng": "draw (in competition), tie game",
+            "tha": "เสมอ"
+        }
+    },
+    {
+        "index": 121,
+        "word": "包丁",
+        "furigana": "ホウチョウ",
+        "meaning": {
+            "eng": "kitchen knife, carving knife",
+            "tha": "มีดทำครัว"
+        }
+    },
+    {
+        "index": 122,
+        "word": "竹",
+        "furigana": "タケ",
+        "meaning": {
+            "eng": "bamboo (any grass of subfamily Bambusoideae)",
+            "tha": "ไผ่"
+        }
+    },
+    {
+        "index": 123,
+        "word": "表紙",
+        "furigana": "ヒョウシ",
+        "meaning": {
+            "eng": "cover (of a book, magazine, etc.), binding",
+            "tha": "ปก (bpòk)"
+        }
+    },
+    {
+        "index": 124,
+        "word": "電柱",
+        "furigana": "デンチュウ",
+        "meaning": {
+            "eng": "utility pole, power pole, telephone pole, telegraph pole",
+            "tha": "เสาไฟฟ้า"
+        }
+    },
+    {
+        "index": 125,
+        "word": "学年",
+        "furigana": "ガクネン",
+        "meaning": {
+            "eng": "academic year, school year",
+            "tha": "ปีการศึกษา"
+        }
+    },
+    {
+        "index": 126,
+        "word": "園芸",
+        "furigana": "エンゲイ",
+        "meaning": {
+            "eng": "horticulture, gardening",
+            "tha": "พืชสวน"
+        }
+    },
+    {
+        "index": 127,
+        "word": "温室",
+        "furigana": "オンシツ",
+        "meaning": {
+            "eng": "greenhouse, hothouse, conservatory, glasshouse",
+            "tha": "เรือนกระจก (reuan krajok)"
+        }
+    },
+    {
+        "index": 128,
+        "word": "原理",
+        "furigana": "ゲンリ",
+        "meaning": {
+            "eng": "principle, theory, fundamental truth",
+            "tha": "หลักการ"
+        }
+    },
+    {
+        "index": 129,
+        "word": "算数",
+        "furigana": "サンスウ",
+        "meaning": {
+            "eng": "arithmetic",
+            "tha": "เลขคณิต"
+        }
+    },
+    {
+        "index": 130,
+        "word": "農産物",
+        "furigana": "ノウサンブツ",
+        "meaning": {
+            "eng": "agricultural produce",
+            "tha": "ผลิตผลทางการเกษตร"
+        }
+    },
+    {
+        "index": 131,
+        "word": "平日",
+        "furigana": "ヘイジツ",
+        "meaning": {
+            "eng": "weekday, ordinary days (i.e. non-holiday)",
+            "tha": "วันธรรมดา"
+        }
+    },
+    {
+        "index": 132,
+        "word": "古典",
+        "furigana": "コテン",
+        "meaning": {
+            "eng": "classic (work, esp. book), the classics",
+            "tha": "วรรณกรรมคลาสสิก,วรรณคดีหรือศิลปะโบราณอันทรงคุณค่า,เก่าแก่,โบราณ"
+        }
+    },
+    {
+        "index": 133,
+        "word": "通路",
+        "furigana": "ツウロ",
+        "meaning": {
+            "eng": "passage, pathway, roadway, avenue, aisle",
+            "tha": "ทางเดิน"
+        }
+    },
+    {
+        "index": 134,
+        "word": "編集",
+        "furigana": "ヘンシュウ",
+        "meaning": {
+            "eng": "editing, compilation",
+            "tha": "การแก้ไข"
+        }
+    },
+    {
+        "index": 135,
+        "word": "集合",
+        "furigana": "シュウゴウ",
+        "meaning": {
+            "eng": "meeting up, gathering, assembly",
+            "tha": "ชุมนุม"
+        }
+    },
+    {
+        "index": 136,
+        "word": "光線",
+        "furigana": "コウセン",
+        "meaning": {
+            "eng": "beam, light ray",
+            "tha": "แสง (saeng)"
+        }
+    },
+    {
+        "index": 137,
+        "word": "電球",
+        "furigana": "デンキュウ",
+        "meaning": {
+            "eng": "light bulb",
+            "tha": "หลอดไฟ"
+        }
+    },
+    {
+        "index": 138,
+        "word": "測定",
+        "furigana": "ソクテイ",
+        "meaning": {
+            "eng": "measurement",
+            "tha": "การวัด (gaan wat)"
+        }
+    },
+    {
+        "index": 139,
+        "word": "宴会",
+        "furigana": "エンカイ",
+        "meaning": {
+            "eng": "party, banquet, reception, feast, dinner",
+            "tha": "งานเลี้ยง (ngaan liang)"
+        }
+    },
+    {
+        "index": 140,
+        "word": "中年",
+        "furigana": "チュウネン",
+        "meaning": {
+            "eng": "\"middle-age, middle age, midlife, one's middle years\"",
+            "tha": "วัยกลางคน"
+        }
+    },
+    {
+        "index": 141,
+        "word": "体操",
+        "furigana": "タイソウ",
+        "meaning": {
+            "eng": "gymnastics, physical exercises",
+            "tha": "ยิมนาสติก, กายบริหาร"
+        }
+    },
+    {
+        "index": 142,
+        "word": "親指",
+        "furigana": "オヤユビ",
+        "meaning": {
+            "eng": "thumb",
+            "tha": "นิ้วหัวแม่มือ"
+        }
+    },
+    {
+        "index": 143,
+        "word": "淡水",
+        "furigana": "タンスイ",
+        "meaning": {
+            "eng": "fresh water (i.e. not salt water)",
+            "tha": "น้ำจืด"
+        }
+    },
+    {
+        "index": 144,
+        "word": "湿度",
+        "furigana": "シツド",
+        "meaning": {
+            "eng": "level of humidity",
+            "tha": "ความชื้น (khwam cheun)"
+        }
+    },
+    {
+        "index": 145,
+        "word": "垂直",
+        "furigana": "スイチョク",
+        "meaning": {
+            "eng": "vertical",
+            "tha": "ตั้งฉาก"
+        }
+    },
+    {
+        "index": 146,
+        "word": "税関",
+        "furigana": "ゼイカン",
+        "meaning": {
+            "eng": "customs, customs house",
+            "tha": "ศุลกากร"
+        }
+    },
+    {
+        "index": 147,
+        "word": "餅",
+        "furigana": "モチ",
+        "meaning": {
+            "eng": "mochi, (sticky) rice cake",
+            "tha": "โมจิ (เค้กข้าว)"
+        }
+    },
+    {
+        "index": 148,
+        "word": "水平",
+        "furigana": "スイヘイ",
+        "meaning": {
+            "eng": "horizontal, level, even",
+            "tha": "แนวนอน"
+        }
+    },
+    {
+        "index": 149,
+        "word": "自然科学",
+        "furigana": "シゼンカガク",
+        "meaning": {
+            "eng": "natural science",
+            "tha": "วิทยาศาสตร์ธรรมชาติ"
+        }
+    },
+    {
+        "index": 150,
+        "word": "確率",
+        "furigana": "カクリツ",
+        "meaning": {
+            "eng": "probability, likelihood, chances",
+            "tha": "ความน่าจะเป็น"
+        }
+    },   {
+        "index": 151,
+        "word": "性別",
+        "furigana": "セイベツ",
+        "meaning": {
+            "eng": "gender, distinction of sex, sex",
+            "tha": "เพศ"
+        }
+    },
+    {
+        "index": 152,
+        "word": "大学院",
+        "furigana": "ダイガクイン",
+        "meaning": {
+            "eng": "graduate school",
+            "tha": "บัณฑิตวิทยาลัย"
+        }
+    },
+    {
+        "index": 153,
+        "word": "売買",
+        "furigana": "バイバイ",
+        "meaning": {
+            "eng": "trade, buying and selling, trafficking (e.g. of humans, arms, drugs), dealing",
+            "tha": "การซื้อขาย"
+        }
+    },
+    {
+        "index": 154,
+        "word": "電波",
+        "furigana": "デンパ",
+        "meaning": {
+            "eng": "radio wave, reception, signal",
+            "tha": "คลื่นวิทยุ"
+        }
+    },
+    {
+        "index": 155,
+        "word": "水蒸気",
+        "furigana": "スイジョウキ",
+        "meaning": {
+            "eng": "water vapour, water vapor, steam",
+            "tha": "ไอน้ำ"
+        }
+    },
+    {
+        "index": 156,
+        "word": "交流",
+        "furigana": "コウリュウ",
+        "meaning": {
+            "eng": "exchange (e.g. cultural), interchange, interaction, mingling, mixing, coming together",
+            "tha": "การแลกเปลี่ยน (gaan laek plian)"
+        }
+    },
+    {
+        "index": 157,
+        "word": "俳句",
+        "furigana": "ハイク",
+        "meaning": {
+            "eng": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae",
+            "tha": "ไฮกุ (บทกวี 17 พยางค์ 5-7-5)"
+        }
+    },
+    {
+        "index": 158,
+        "word": "歯磨き",
+        "furigana": "ハミガキ",
+        "meaning": {
+            "eng": "\"dental brushing, brushing one's teeth\"",
+            "tha": "การแปรงฟัน"
+        }
+    },
+    {
+        "index": 159,
+        "word": "随筆",
+        "furigana": "ズイヒツ",
+        "meaning": {
+            "eng": "essays, miscellaneous writings, literary jottings",
+            "tha": "บันทึกความเรียง"
+        }
+    },
+    {
+        "index": 160,
+        "word": "漁業",
+        "furigana": "ギョギョウ",
+        "meaning": {
+            "eng": "fishing industry, fishery",
+            "tha": "ประมง"
+        }
+    },
+    {
+        "index": 161,
+        "word": "線路",
+        "furigana": "センロ",
+        "meaning": {
+            "eng": "railway track, railway line, railroad, railway, track, line",
+            "tha": "ทางรถไฟ"
+        }
+    },
+    {
+        "index": 162,
+        "word": "幼稚園",
+        "furigana": "ヨウチエン",
+        "meaning": {
+            "eng": "kindergarten, nursery school, preschool",
+            "tha": "อนุบาล"
+        }
+    },
+    {
+        "index": 163,
+        "word": "透明",
+        "furigana": "トウメイ",
+        "meaning": {
+            "eng": "transparent, clear",
+            "tha": "โปร่งใส"
+        }
+    },
+    {
+        "index": 164,
+        "word": "灯台",
+        "furigana": "トウダイ",
+        "meaning": {
+            "eng": "lighthouse",
+            "tha": "ประภาคาร"
+        }
+    },
+    {
+        "index": 165,
+        "word": "洗剤",
+        "furigana": "センザイ",
+        "meaning": {
+            "eng": "detergent, cleanser, cleaning agent, washing material",
+            "tha": "ผงซักฟอก (phong sak fok)"
+        }
+    },
+    {
+        "index": 166,
+        "word": "観測",
+        "furigana": "カンソク",
+        "meaning": {
+            "eng": "observation, survey, measurement",
+            "tha": "การสังเกตการณ์"
+        }
+    },
+    {
+        "index": 167,
+        "word": "役所",
+        "furigana": "ヤクショ",
+        "meaning": {
+            "eng": "government office, public office",
+            "tha": "ราชการ"
+        }
+    },
+    {
+        "index": 168,
+        "word": "冠",
+        "furigana": "カンムリ",
+        "meaning": {
+            "eng": "traditional cap worn by Shinto clergy and courtiers",
+            "tha": "หมวกขุนนางชินโต"
+        }
+    },
+    {
+        "index": 169,
+        "word": "祝日",
+        "furigana": "シュクジツ",
+        "meaning": {
+            "eng": "national holiday, public holiday",
+            "tha": "วันหยุดนักขัตฤกษ์"
+        }
+    },
+    {
+        "index": 170,
+        "word": "名刺",
+        "furigana": "メイシ",
+        "meaning": {
+            "eng": "business card",
+            "tha": "นามบัตร"
+        }
+    },
+    {
+        "index": 171,
+        "word": "童話",
+        "furigana": "ドウワ",
+        "meaning": {
+            "eng": "\"children's story, fairy tale\"",
+            "tha": "นิทาน"
+        }
+    },
+    {
+        "index": 172,
+        "word": "会館",
+        "furigana": "カイカン",
+        "meaning": {
+            "eng": "meeting hall, assembly hall",
+            "tha": "หอประชุม"
+        }
+    },
+    {
+        "index": 173,
+        "word": "紫",
+        "furigana": "ムラサキ",
+        "meaning": {
+            "eng": "purple, violet",
+            "tha": "ม่วง"
+        }
+    },
+    {
+        "index": 174,
+        "word": "工夫",
+        "furigana": "クフウ",
+        "meaning": {
+            "eng": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out",
+            "tha": "คิดค้น"
+        }
+    },
+    {
+        "index": 175,
+        "word": "車掌",
+        "furigana": "シャショウ",
+        "meaning": {
+            "eng": "(train) conductor",
+            "tha": "กระเป๋ารถไฟ"
+        }
+    },
+    {
+        "index": 176,
+        "word": "歯車",
+        "furigana": "ハグルマ",
+        "meaning": {
+            "eng": "gear, cogwheel",
+            "tha": "เฟือง"
+        }
+    },
+    {
+        "index": 177,
+        "word": "半島",
+        "furigana": "ハントウ",
+        "meaning": {
+            "eng": "peninsula",
+            "tha": "คาบสมุทร"
+        }
+    },
+    {
+        "index": 178,
+        "word": "名物",
+        "furigana": "メイブツ",
+        "meaning": {
+            "eng": "famous product, special product, speciality, specialty",
+            "tha": "สินค้าขึ้นชื่อ"
+        }
+    },
+    {
+        "index": 179,
+        "word": "流域",
+        "furigana": "リュウイキ",
+        "meaning": {
+            "eng": "drainage basin, catchment basin, river basin, watershed, valley",
+            "tha": "ลุ่มแม่น้ำ,บริเวณสองฝั่งแม่น้ำ"
+        }
+    },
+    {
+        "index": 180,
+        "word": "司会",
+        "furigana": "シカイ",
+        "meaning": {
+            "eng": "leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship",
+            "tha": "พิธีกร"
+        }
+    },
+    {
+        "index": 181,
+        "word": "接続",
+        "furigana": "セツゾク",
+        "meaning": {
+            "eng": "connection, attachment, union, join, joint, link",
+            "tha": "การเชื่อมต่อ"
+        }
+    },
+    {
+        "index": 182,
+        "word": "転々",
+        "furigana": "テンテン",
+        "meaning": {
+            "eng": "moving from place to place, being passed around repeatedly",
+            "tha": "ย้ายไปเรื่อยๆ,(เปลี่ยนมือ)หลายต่อ,(กลิ้ง)หลุน ๆ"
+        }
+    },
+    {
+        "index": 183,
+        "word": "学部",
+        "furigana": "ガクブ",
+        "meaning": {
+            "eng": "department of a university",
+            "tha": "คณะ"
+        }
+    },
+    {
+        "index": 184,
+        "word": "農薬",
+        "furigana": "ノウヤク",
+        "meaning": {
+            "eng": "agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.), agrochemical, agrichemical",
+            "tha": "สารเคมีกำจัดศัตรูพืช"
+        }
+    },
+    {
+        "index": 185,
+        "word": "社説",
+        "furigana": "シャセツ",
+        "meaning": {
+            "eng": "editorial, leading article, leader",
+            "tha": "บทบรรณาธิการ"
+        }
+    },
+    {
+        "index": 186,
+        "word": "気圧",
+        "furigana": "キアツ",
+        "meaning": {
+            "eng": "atmospheric pressure",
+            "tha": "ความดันบรรยากาศ"
+        }
+    },
+    {
+        "index": 187,
+        "word": "重力",
+        "furigana": "ジュウリョク",
+        "meaning": {
+            "eng": "gravity, gravitation, gravitational pull",
+            "tha": "แรงโน้มถ่วง"
+        }
+    },
+    {
+        "index": 188,
+        "word": "真空",
+        "furigana": "シンクウ",
+        "meaning": {
+            "eng": "vacuum, hollow, empty",
+            "tha": "สุญญากาศ"
+        }
+    },
+    {
+        "index": 189,
+        "word": "発電",
+        "furigana": "ハツデン",
+        "meaning": {
+            "eng": "generation of electricity, power generation",
+            "tha": "การผลิตไฟฟ้า"
+        }
+    },
+    {
+        "index": 190,
+        "word": "頂点",
+        "furigana": "チョウテン",
+        "meaning": {
+            "eng": "vertex, apex",
+            "tha": "จุดยอด"
+        }
+    },
+    {
+        "index": 191,
+        "word": "圧縮",
+        "furigana": "アッシュク",
+        "meaning": {
+            "eng": "compression",
+            "tha": "การบีบอัด"
+        }
+    },
+    {
+        "index": 192,
+        "word": "郡",
+        "furigana": "グン",
+        "meaning": {
+            "eng": "district, county",
+            "tha": "อำเภอ"
+        }
+    },
+    {
+        "index": 193,
+        "word": "西暦",
+        "furigana": "セイレキ",
+        "meaning": {
+            "eng": "Common Era, CE, Christian Era, anno domini, AD",
+            "tha": "คริสต์ศักราช (Khritsakkarat)"
+        }
+    },
+    {
+        "index": 194,
+        "word": "工芸",
+        "furigana": "コウゲイ",
+        "meaning": {
+            "eng": "industrial arts, craft",
+            "tha": "หัตถกรรม"
+        }
+    },
+    {
+        "index": 195,
+        "word": "索引",
+        "furigana": "サクイン",
+        "meaning": {
+            "eng": "index (in a book)",
+            "tha": "ดรรชนี"
+        }
+    },
+    {
+        "index": 196,
+        "word": "輸血",
+        "furigana": "ユケツ",
+        "meaning": {
+            "eng": "blood transfusion",
+            "tha": "การถ่ายเลือด"
+        }
+    },
+    {
+        "index": 197,
+        "word": "峠",
+        "furigana": "トウゲ",
+        "meaning": {
+            "eng": "(mountain) pass, highest point on a mountain road, ridge",
+            "tha": "ช่องเขา"
+        }
+    },
+    {
+        "index": 198,
+        "word": "自治",
+        "furigana": "ジチ",
+        "meaning": {
+            "eng": "self-government, autonomy",
+            "tha": "การปกครองตนเอง"
+        }
+    },
+    {
+        "index": 199,
+        "word": "筆記",
+        "furigana": "ヒッキ",
+        "meaning": {
+            "eng": "(taking) notes, copying",
+            "tha": "จดบันทึก"
+        }
+    },
+    {
+        "index": 200,
+        "word": "紙幣",
+        "furigana": "シヘイ",
+        "meaning": {
+            "eng": "paper money, note, bill",
+            "tha": "ธนบัตร"
+        }
+    }
+]
