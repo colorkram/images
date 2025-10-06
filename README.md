@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/colorkram/images
+https://cdn.jsdelivr.net/gh/colorkram/images/
